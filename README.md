@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Tsholofelo D. Mokheleli
 - 👀 I’m interested in App and Website development
 - 🌱 I’m currently learning react native and react.js
-- 💞️ University of johannesburg | Diploma in Business Information Technology |Advanced Diploma in Business information Technology 
+- 💞️ University of Johannesburg | Diploma in Business Information Technology |Advanced Diploma in Business Information Technology 
 - 💞️ Currently studying BcomHons in Information Systems
-- 📫 How to reach me , email on mokhelelitsholo48@gmail.com
+- 📫 How to reach me, email mokhelelitsholo48@gmail.com
 - linkedin : Tsholofelo D. Mokheleli -- https://www.linkedin.com/in/tsholofelo-mokheleli/
 - Instagram : Tsholofelo D. Mokheleli -- https://www.instagram.com/tsholofelo_mokheleli/
 
