@@ -1,4 +1,9 @@
 
+<h1 align="center">
+  HEY, THERE
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="300"/>
 </div>
@@ -8,13 +13,6 @@
     <img src="https://komarev.com/ghpvc/?username=tsholofelo-mokheleli&style=for-the-badge&color=blue" alt="LinkedIn Counter"/>
   </a>
 </div>
-
----
-
-<h1 align="center">
-  Hi, I'm Tsholofelo D. Mokheleli
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
 
 ---
 
@@ -89,7 +87,7 @@ I am a software engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 --- 
 
-# Find me around the web 	:earth_africa:
+### Find me around the web 	:earth_africa:
 
 - :email: Email - tsholo@syntaxtechsolutions.com
 - :link: LinkedIn - https://www.linkedin.com/in/tsholofelo-mokheleli/
