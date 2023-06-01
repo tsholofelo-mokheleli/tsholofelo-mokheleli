@@ -78,12 +78,20 @@ I am a software engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 ### :writing_hand: Blog Posts :
 #### 1. Props vs. State in React: Differences and Code Examples
-- :link: https://syntaxtechsolutions.com/blog/props-vs-state-in-react
-- :date: April 09, 2023
+  - :link: https://syntaxtechsolutions.com/blog/props-vs-state-in-react
+  - :date: April 09, 2023
 
 #### 2. How to Handle Keyboard Events in React: Best Practices and Code Examples
-- :link: https://syntaxtechsolutions.com/blog/how-to-handle-keyboard-events-in-react
-- :date: April 09, 2023
+  - :link: https://syntaxtechsolutions.com/blog/how-to-handle-keyboard-events-in-react
+  - :date: April 09, 2023
+
+---
+
+### :writing_hand: Academic Journal Article
+#### 1. Machine Learning Approach for Credit Score Predictions
+  - :link: https://journal-isi.org/index.php/isi/article/view/487
+  - :date: 02 June 2023
+  - :blue_book: Journal of Information Systems and Informatics  
 
 --- 
 
