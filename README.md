@@ -18,10 +18,11 @@
 
 ### :man_technologist: About Me :
 
-I am a software engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS and React Native.
+
+I am an academic, researcher, and software engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with a keen interest in advancing the field of computer science through both theoretical research and practical application. I am passionate about making contributions to open-source more approachable, creating technology to elevate people, and building community. My work straddles the line between academia, where I delve into complex problems and contribute to the body of knowledge, and the software industry, where I apply these insights to develop innovative solutions. Some technologies I enjoy working with include ReactJS and React Native, allowing me to build user-friendly interfaces that make technology accessible to a broader audience. I aim to bridge the gap between theoretical research and practical technology development, leveraging my skills to drive forward academic inquiry and real-world application.
 
 
-- :telescope: I’m interested in App, Web development,and Machine Learning 
+- :telescope: I’m interested in App, Web development, and Machine Learning 
 - :seedling: I’m currently learning how to build Machine learning models using python
 - :school: University of Johannesburg 
 - :mortar_board: Diploma in Business Information Technology 
