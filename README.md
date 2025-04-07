@@ -28,7 +28,8 @@ I am an academic, researcher, and software engineer <img src="https://media.giph
 - :mortar_board: Diploma in Business Information Technology 
 - :mortar_board: Advanced Diploma in Business Information Technology 
 - :mortar_board: BcomHons in Information Systems
-- :toolbox: Currently studying Mcom In IT management
+- :mortar_board: Mcom in IT Management
+- :toolbox: PhD Candidate (Applied Data Science)
 
 ---
 
