@@ -1,11 +1,10 @@
 
 <h1 align="center">
-  HEY, THERE
-  <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="30px"/>
+  Tsholofelo D. Mokheleli
 </h1>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="300"/>
+  <img src="https://media.licdn.com/dms/image/v2/D4D03AQFGR60umxkbGw/profile-displayphoto-shrink_800_800/B4DZOSr8anHcAc-/0/1733332815190?e=1749686400&v=beta&t=nhFcDsSns1iSHLqlf2BuUWrPq0w7eflMuujZKxk0phM" width="300"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/tsholofelo-mokheleli/">
