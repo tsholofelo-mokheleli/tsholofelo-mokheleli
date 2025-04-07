@@ -93,7 +93,10 @@ I am an academic, researcher, and software engineer <img src="https://media.giph
 #### 1. Machine Learning Approach for Credit Score Predictions
   - :link: https://journal-isi.org/index.php/isi/article/view/487
   - :date: 02 June 2023
-  - :blue_book: Journal of Information Systems and Informatics  
+  - :blue_book: Journal of Information Systems and Informatics
+
+#### See more and latest on Google Scholar
+  - :link: https://scholar.google.com/citations?user=MS3ho8QAAAAJ&hl=en
 
 --- 
 
