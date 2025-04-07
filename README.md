@@ -1,7 +1,7 @@
 
 <h1 align="center">
   HEY, THERE
-  <img src="https://media.licdn.com/dms/image/v2/D4D22AQFCHh7jUNwxrw/feedshare-shrink_1280/feedshare-shrink_1280/0/1721471868031?e=1746662400&v=beta&t=Q3C0-szmY7SWGu86up8TATZwNwjbDPP9JkjeXoyr-5E" width="30px"/>
+  <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="30px"/>
 </h1>
 
 <div id="header" align="center">
