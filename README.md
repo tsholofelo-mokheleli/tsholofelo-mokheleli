@@ -4,7 +4,8 @@
 </h1>
 
 <div id="header" align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D03AQFGR60umxkbGw/profile-displayphoto-shrink_800_800/B4DZOSr8anHcAc-/0/1733332815190?e=1749686400&v=beta&t=nhFcDsSns1iSHLqlf2BuUWrPq0w7eflMuujZKxk0phM" width="300"/>
+<img width="288" height="288" alt="image" src="https://github.com/user-attachments/assets/1a922aa2-34a1-4da2-8ae3-cfda4a92662a" />
+
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/tsholofelo-mokheleli/">
