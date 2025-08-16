@@ -4,7 +4,7 @@
 </h1>
 
 <div id="header" align="center">
-<img width="288" height="288" alt="image" src="https://github.com/user-attachments/assets/1a922aa2-34a1-4da2-8ae3-cfda4a92662a" />
+<img width="288" height="288" alt="image" src="https://github.com/user-attachments/assets/1a922aa2-34a1-4da2-8ae3-cfda4a92662a" style="border-radius: 50%;"  />
 
 </div>
 <div id="badges" align="center">
